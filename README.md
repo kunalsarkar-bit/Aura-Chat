@@ -3,7 +3,7 @@
   
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <div>
-	<h1>Lucy Chat App - MERN Chatting Application</h1>
+	<h1>Aura Chat (Lucy Chat) App - MERN Chatting Application</h1>
 	<em>Connect Anywhere, Anytime with MERN Chat App!</em>
 	<p>A full-stack MERN (MongoDB, Express.js, React.js, Node.js, Socket.IO) online chatting application 💬 with friends additionally with a Personal Chatbot. 🤖</p>
   </div>
